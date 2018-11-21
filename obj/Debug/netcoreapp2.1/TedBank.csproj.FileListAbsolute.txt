@@ -1,0 +1,14 @@
+c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.csprojAssemblyReference.cache
+c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.csproj.CoreCompileInputs.cache
+c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.RazorAssemblyInfo.cache
+c:\users\steve\source\repos\TedBank\TedBank\bin\Debug\netcoreapp2.1\TedBank.deps.json
+c:\users\steve\source\repos\TedBank\TedBank\bin\Debug\netcoreapp2.1\TedBank.runtimeconfig.json
+c:\users\steve\source\repos\TedBank\TedBank\bin\Debug\netcoreapp2.1\TedBank.runtimeconfig.dev.json
+c:\users\steve\source\repos\TedBank\TedBank\bin\Debug\netcoreapp2.1\TedBank.dll
+c:\users\steve\source\repos\TedBank\TedBank\bin\Debug\netcoreapp2.1\TedBank.pdb
+c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.RazorAssemblyInfo.cs
+c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.AssemblyInfoInputs.cache
+c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.AssemblyInfo.cs
+c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.RazorTargetAssemblyInfo.cache
+c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.dll
+c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.pdb

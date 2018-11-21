@@ -13,6 +13,5 @@ namespace TedBank.Models
         public string Topic { get; set; }
         public string Uploaded { get; set; }
         public string Speaker { get; set; }
-        public string Tags { get; internal set; }
     }
 }

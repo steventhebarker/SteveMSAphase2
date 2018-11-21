@@ -91,8 +91,14 @@ namespace TedBank.Controllers
             }
 
             _context.TedItem.Add(tedItem);
-            await _context.SaveChangesAsync();
-
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch(Exception e)
+            {
+                int a = 0;
+            }
             return CreatedAtAction("GetTedItem", new { id = tedItem.Id }, tedItem);
         }
 
@@ -122,7 +128,7 @@ namespace TedBank.Controllers
             return _context.TedItem.Any(e => e.Id == id);
         }
         // GET: api/Ted/Tags
-        [Route("tags")]
+        /*[Route("tags")]
         [HttpGet]
         public async Task<List<string>> GetTags()
         {
@@ -132,6 +138,6 @@ namespace TedBank.Controllers
             var returned = await tedTalks.ToListAsync();
 
             return returned;
-        }
+        }*/
     }
 }

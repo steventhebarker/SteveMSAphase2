@@ -12,17 +12,3 @@ c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.Asse
 c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.RazorTargetAssemblyInfo.cache
 c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.dll
 c:\users\steve\source\repos\TedBank\TedBank\obj\Debug\netcoreapp2.1\TedBank.pdb
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\bin\Debug\netcoreapp2.1\TedBank.deps.json
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\bin\Debug\netcoreapp2.1\TedBank.runtimeconfig.json
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\bin\Debug\netcoreapp2.1\TedBank.runtimeconfig.dev.json
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\bin\Debug\netcoreapp2.1\TedBank.dll
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\bin\Debug\netcoreapp2.1\TedBank.pdb
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\obj\Debug\netcoreapp2.1\TedBank.csprojAssemblyReference.cache
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\obj\Debug\netcoreapp2.1\TedBank.csproj.CoreCompileInputs.cache
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\obj\Debug\netcoreapp2.1\TedBank.RazorAssemblyInfo.cache
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\obj\Debug\netcoreapp2.1\TedBank.RazorAssemblyInfo.cs
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\obj\Debug\netcoreapp2.1\TedBank.AssemblyInfoInputs.cache
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\obj\Debug\netcoreapp2.1\TedBank.AssemblyInfo.cs
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\obj\Debug\netcoreapp2.1\TedBank.RazorTargetAssemblyInfo.cache
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\obj\Debug\netcoreapp2.1\TedBank.dll
-C:\Users\steve\Desktop\phase2\SteveMSAphase2\obj\Debug\netcoreapp2.1\TedBank.pdb

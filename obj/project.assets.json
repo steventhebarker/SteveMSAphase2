@@ -12985,11 +12985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\steve\\source\\repos\\TedBank\\TedBank\\TedBank.csproj",
+      "projectUniqueName": "C:\\Users\\steve\\Desktop\\phase2\\SteveMSAphase2\\TedBank.csproj",
       "projectName": "TedBank",
-      "projectPath": "c:\\users\\steve\\source\\repos\\TedBank\\TedBank\\TedBank.csproj",
+      "projectPath": "C:\\Users\\steve\\Desktop\\phase2\\SteveMSAphase2\\TedBank.csproj",
       "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\steve\\source\\repos\\TedBank\\TedBank\\obj\\",
+      "outputPath": "C:\\Users\\steve\\Desktop\\phase2\\SteveMSAphase2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

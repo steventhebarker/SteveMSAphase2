@@ -1,3 +1,11 @@
 
 *.dll
 *.pdb
+.vs/TedBank/v15/.suo
+.vs/TedBank/v15/Server/sqlite3/db.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.dll
+*.pdb
+*.dll

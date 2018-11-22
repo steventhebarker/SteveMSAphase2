@@ -128,16 +128,37 @@ namespace TedBank.Controllers
             return _context.TedItem.Any(e => e.Id == id);
         }
         // GET: api/Ted/Tags
-        /*[Route("tags")]
+        [Route("topics")]
         [HttpGet]
-        public async Task<List<string>> GetTags()
+        public async Task<List<string>> GetTopics()
         {
             var tedTalks = (from t in _context.TedItem
-                         select t.Tags).Distinct();
+                            select t.Topic).Distinct();
 
             var returned = await tedTalks.ToListAsync();
 
             return returned;
-        }*/
+        }
+
+
+        // GET: api/Meme/topic
+
+        [HttpGet]
+        [Route("topic")]
+        public async Task<List<TedItem>> GetTopicsItem([FromQuery] string topics)
+        {
+            var tedTalks = from t in _context.TedItem
+                           select t; //get all the ted talks
+
+
+            if (!String.IsNullOrEmpty(topics)) //make sure user gave a topic to search
+            {
+                tedTalks = tedTalks.Where(s => s.Topic.ToLower().Equals(topics.ToLower())); // find the entries with the search topic and reassign
+            }
+
+            var returned = await tedTalks.ToListAsync(); //return the memes
+
+            return returned;
+        }
     }
 }
